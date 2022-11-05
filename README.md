@@ -28,7 +28,7 @@ Atualmente, ajudo as pessoas a mudarem de vida, através de técnicas de aprendi
 
 <!-- REDES SOCIAIS -->
 <div align="center">
-  <a href="xxyoutubexx" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="[xxyoutubexx](https://www.youtube.com/channel/UCHaufACUnbOckyuPFy0hLDg)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="xxxinstram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="xxxlinkedinxxx target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
